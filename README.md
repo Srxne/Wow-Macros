@@ -1,1 +1,1 @@
-[![Wow-Macros](https://img.shields.io/badge/Wow--Macros-3.3.5-blue)](https://github.com/Srxne/Wow-Macros)
+[![Wow-Macros](https://img.shields.io/badge/World%20of%20Warcraft-1.12.2-orange)](https://github.com/Srxne/Wow-Macros) [![Wow-Macros](https://img.shields.io/badge/-2.4.3-green)](https://github.com/Srxne/Wow-Macros) [![Wow-Macros](https://img.shields.io/badge/-3.3.5-blue)](https://github.com/Srxne/Wow-Macros)
