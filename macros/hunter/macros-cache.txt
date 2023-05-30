@@ -1,0 +1,103 @@
+MACRO 16777218 "." INV_Misc_QuestionMark
+#showtooltip Arcane Shot
+/petattack
+/startattack
+/cancelaura Deterrence
+/cast [mod] Rapid Fire
+/cast Arcane Shot
+/use [combat] 10
+END
+MACRO 16777219 "." INV_Misc_QuestionMark
+#showtooltip
+/petattack
+/startattack
+/cancelaura Deterrence
+/cast [mod] Multi-Shot
+/cast [nomod] Aimed Shot
+/use [combat] 10
+END
+MACRO 16777220 "." INV_Misc_QuestionMark
+#showtooltip Steady Shot
+/startattack
+/cancelaura Deterrence
+/cast [mod] Rapid Fire
+/cast Steady Shot
+END
+MACRO 16777221 "." INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast Tranquilizing Shot
+END
+MACRO 16777222 "." INV_Misc_QuestionMark
+#showtooltip
+/petattack
+/startattack
+/cast Bestial Wrath
+/cast Blood Fury(Racial)
+/cast Call of the Wild
+/cast Kill Command
+/cast Rapid Fire
+/cast [combat] Steady Shot
+END
+MACRO 16777217 "." INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cancelaura Deterrence
+/cast Concussive Shot
+END
+MACRO 16777223 "." INV_Misc_QuestionMark
+#showtooltip
+/cast [mod] Immolation Trap
+/cast [nomod] Snake Trap
+END
+MACRO 16777224 "." INV_Misc_QuestionMark
+#showtooltip
+/cast [mod] Frost Trap
+/cast [nomod] Freezing Arrow
+END
+MACRO 16777225 "." INV_Misc_QuestionMark
+#showtooltip
+/petattack
+/cast Wing Clip
+END
+MACRO 16777226 "." INV_Misc_QuestionMark
+#showtooltip
+/cast [mod] Scorpid Sting
+/cast [nomod] Serpent Sting
+END
+MACRO 16777228 "." INV_Misc_QuestionMark
+#showtooltip
+/cast [mod] Aspect of the Pack
+/cast [nomod] Aspect of the Cheetah
+END
+MACRO 16777229 "." INV_Misc_QuestionMark
+#showtooltip Intimidation
+/petattack
+/startattack
+/cast Dash
+/cast Intimidation
+END
+MACRO 16777230 "." INV_Misc_QuestionMark
+#showtooltip Mend Pet
+/petfollow
+/cast [combat] Dash
+/cast Mend Pet
+END
+MACRO 16777231 "." INV_Misc_QuestionMark
+#showtooltip Master's Call
+/petfollow
+/cast Dash
+/cast Master's Call
+END
+MACRO 16777232 "." INV_Misc_QuestionMark
+#showtooltip Disengage
+/use [combat] 15
+/cast Disengage
+END
+MACRO 16777234 "." INV_Misc_QuestionMark
+#showtooltip
+/petattack
+/startattack
+/cancelaura Deterrence
+/cast Kill Shot
+END
