@@ -9,12 +9,21 @@ Work in progress...
 ***
 
 ### Summary
-* [Introduction](#macros-for-world-of-warcraft)
+* [Introduction](#macros-for-world-of-warcraft--)
 * [Macros](#macros)
   - Death Knight
   - Druid
   - [Hunter](#hunter)
+  - Mage
+  - Paladin
+  - Priest
+  - Rogue
+  - Shaman
+  - Warlock
+  - Warrior
 * [About](#about)
 * [FAQ](#faq)
 
-## Hunter
+## Macros
+### Auto-Attack
+#### Pet-Attack
