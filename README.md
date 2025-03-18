@@ -9,7 +9,7 @@ Work in progress...
 ***
 
 ### Summary
-* [Introduction](#macros-for-world-of-warcraft--)
+* [Introduction](https://github.com/Srxne/Wow-Macros)
 * [Macros](#macros)
   - Death Knight
   - Druid
@@ -25,5 +25,4 @@ Work in progress...
 * [FAQ](#faq)
 
 ## Macros
-### Auto-Attack
-#### Pet-Attack
+### Hunter
